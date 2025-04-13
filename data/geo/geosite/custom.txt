@@ -1,3 +1,0 @@
-domain:canva.com
-domain:openai.com
-domain:notion.s
